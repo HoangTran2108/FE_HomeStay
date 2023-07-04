@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+
+.custom {
+    background: #3498DB;
+    font-size: 16px;
+    padding-bottom: 360px;
+}
+
+.s1 {
+    font-size: 30vh;
+    color: #fff;
+}
+
+.oops {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.spannn {
+    font-size: 4rem;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+.l1:link, .l1:visited {
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hoverLink .l1:hover {
+    text-decoration: none;
+    background: #fff;
+    color: #3498DB;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
